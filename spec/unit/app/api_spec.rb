@@ -1,6 +1,6 @@
+require_relative '../../spec_helper.rb'
 require_relative '../../../app/api'
 require 'rack/test'
-require_relative '../../spec_helper.rb'
 require_relative '../../support/json'
 
 module Posts

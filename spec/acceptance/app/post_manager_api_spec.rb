@@ -1,8 +1,8 @@
 require 'rack/test'
 require 'json'
+require_relative '../../spec_helper.rb'
 require_relative '../../../app/api'
 require_relative '../../support/json'
-require_relative '../../spec_helper.rb'
 
 module Posts
   RSpec.describe 'Post Manager API', :db do

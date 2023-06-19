@@ -1,5 +1,5 @@
-require_relative '../../../app/manager'
 require_relative '../../spec_helper.rb'
+require_relative '../../../app/manager'
 
 module Posts
   RSpec.describe Post, :aggregate_failures, :db do

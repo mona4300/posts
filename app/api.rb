@@ -1,4 +1,5 @@
 require 'sinatra/base'
+require 'webrick'
 require 'json'
 require_relative 'manager'
 

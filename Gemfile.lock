@@ -33,6 +33,7 @@ GEM
       tilt (~> 2.0)
     sqlite3 (1.6.3-x86_64-linux)
     tilt (2.2.0)
+    webrick (1.8.1)
 
 PLATFORMS
   x86_64-linux
@@ -45,6 +46,7 @@ DEPENDENCIES
   sequel (= 5.69.0)
   sinatra (= 3.0.6)
   sqlite3 (= 1.6.3)
+  webrick (= 1.8.1)
 
 BUNDLED WITH
    2.3.3
