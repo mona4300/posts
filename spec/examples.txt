@@ -1,0 +1,11 @@
+example_id                                          | status | run_time        |
+--------------------------------------------------- | ------ | --------------- |
+./spec/acceptance/app/post_manager_api_spec.rb[1:1] | passed | 0.0512 seconds  |
+./spec/integration/app/manager_spec.rb[1:1:1]       | passed | 0.03179 seconds |
+./spec/integration/app/manager_spec.rb[1:2:1]       | passed | 0.01331 seconds |
+./spec/integration/app/manager_spec.rb[1:2:2]       | passed | 0.00208 seconds |
+./spec/unit/app/api_spec.rb[1:1:1:1]                | passed | 0.00564 seconds |
+./spec/unit/app/api_spec.rb[1:1:1:2]                | passed | 0.00305 seconds |
+./spec/unit/app/api_spec.rb[1:2:1:1]                | passed | 0.00154 seconds |
+./spec/unit/app/api_spec.rb[1:2:1:2]                | passed | 0.0007 seconds  |
+./spec/unit/app/api_spec.rb[1:2:2:1]                | passed | 0.01539 seconds |
